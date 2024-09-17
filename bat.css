@@ -1,0 +1,33 @@
+*{
+  font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+body{
+  text-align: center;
+  width: 700px;
+  border-radius: 10px;
+  position: relative;
+  left: 25%;
+ background:linear-gradient(#f75990,#fff685);
+}
+.my-button{
+  border-radius: 10px;
+
+}
+.my-button:hover{
+  background:linear-gradient(#a0d2eb,#e5eaf5,#d0bdf4,#8458B3,#a28089);
+}
+.images{
+    height: 150px;
+    margin: 10px;
+    
+}
+.my-button1{
+  margin: 15px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.my-button1:hover{
+  background:linear-gradient(#a0d2eb,#e5eaf5,#d0bdf4,#8458B3,#a28089);
+}
